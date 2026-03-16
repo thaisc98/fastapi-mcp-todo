@@ -13,7 +13,6 @@ dist/
 build/
 
 # Project
-todos.db
 .env
 .env.local
 *.log
